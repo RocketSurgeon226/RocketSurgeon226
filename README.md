@@ -8,10 +8,11 @@
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
+- <b>Home Lab Setup</b>
 - <b>Home Lab Management (Proxmox)</b>
 - <b>Video Media Library (Jellyfin)</b>
 - <b>Image Media Library (Immich)</b>
-- <b>LAN Wide Adblocker (Adguard Home)</b>
+- <b>Home/LAN Adblocker (Adguard Home)</b>
 - <b>Network Practice labbing (OPNSense)</b>
 - <b>Subnetting and VPN Management (Tailscale)</b>
 
