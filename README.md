@@ -1,7 +1,21 @@
-<h1>Hi, I'm Adam! <br/><a href="https://github.com/RocketSurgeon226">Home Labber</a>, <a href="https://www.linkedin.com/in/adam-jeremiah-smith/">Information Technology Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Adam! <br/><a href="https://github.com/RocketSurgeon226">Home Labber</a>, <a href="https://www.linkedin.com/in/adam-jeremiah-smith/">Information Technology Student  (network engineering/cybersecurity focus)</a>, <a href="https://www.youtube.com/c/joshmadakor">Dec 2026 grad from University of Missouri - Columbia</a></h1>
+
+<h2>Mizzou IT major + 4 certificates, MOREnet (Missouri Research Education Network) help desk experience, Tripoli L1 rocketry cert</h2>
+
+<h2>Skills: Python, C#, JavaScript, Node.js, React, MongoDB, Docker, Cisco Packet Tracer, Wireshark, Linux CLI</h2>
+
+<h2>Current Learning: Network+ (July exam target), homelab/Proxmox work</h2>
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
+- <b>Home Lab Management (Proxmox)</b>
+- <b>Video Media Library (Jellyfin)</b>
+- <b>Image Media Library (Immich)</b>
+- <b>LAN Wide Adblocker (Adguard Home)</b>
+- <b>Network Practice labbing (OPNSense)</b>
+- <b>Subnetting and VPN Management (Tailscale)</b>
+
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -17,6 +31,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+-->
 
 <h2>👨‍💻 Networking Labs:</h2>
 
@@ -24,6 +39,7 @@
 
 <h2>👨‍💻 Unix Bootable USB Project:</h2>
 
+<!--
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -31,17 +47,22 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
+-->
 <h2> 🤳 Connect with me:</h2>
-
+<!--
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+-->
+<!--
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+-->
 
+<!--
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
+-->
 [linkedin]: https://www.linkedin.com/in/adam-jeremiah-smith/
 
 <!--
