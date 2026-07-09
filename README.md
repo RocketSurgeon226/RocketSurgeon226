@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adam! <br><a href="https://github.com/RocketSurgeon226">Home Labber</a>, <a href="https://www.linkedin.com/in/adam-jeremiah-smith/">Information Technology Student  (network engineering/cybersecurity focus)</a>, <a href="https://www.youtube.com/c/joshmadakor">Dec 2026 grad from University of Missouri - Columbia</a></br></h1>
 
-<h2>Mizzou IT major + 4 certificates, MOREnet (Missouri Research Education Network) help desk experience, Tripoli L1 rocketry cert</h2>
+<h2>Mizzou IT major + 4 certificates, MOREnet (Missouri Research Education Network) help desk experience</h2>
 
 <h2>Skills: Python, C#, JavaScript, Node.js, React, MongoDB, Docker, Cisco Packet Tracer, Wireshark, Linux CLI</h2>
 
