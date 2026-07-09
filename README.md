@@ -10,12 +10,6 @@
 
 - <b>Home Lab Setup</b>
   - [My Home Lab Setup](https://github.com/RocketSurgeon226/My-Home-Lab-Setup/blob/main/README.md)
-- <b>Home Lab Management (Proxmox)</b>
-- <b>Video Media Library (Jellyfin)</b>
-- <b>Image Media Library (Immich)</b>
-- <b>Home/LAN Adblocker (Adguard Home)</b>
-- <b>Network Practice labbing (OPNSense)</b>
-- <b>Subnetting and VPN Management (Tailscale)</b>
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
