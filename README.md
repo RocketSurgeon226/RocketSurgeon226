@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 
 
-<h1>Hi, I'm Adam! <br> <a href="https://github.com/RocketSurgeon226">Home Labber</a>, <a href="https://www.linkedin.com/in/adam-jeremiah-smith/">IT Student (network engineering / cybersecurity focus)</a>, Dec 2026 grad from the University of Missouri – Columbia</br></h1>
+<h1>Hi, I'm Adam! <br> <a href="https://github.com/RocketSurgeon226/My-Home-Lab-Setup/blob/main/README.md">Home Labber</a>, <a href="https://www.linkedin.com/in/adam-jeremiah-smith/">IT Student (network engineering / cybersecurity focus)</a>, Dec 2026 grad from the University of Missouri – Columbia</br></h1>
 
 <h2>Mizzou B.S. Information Technology + 4 certificates</h2>
 <h3>(Information Systems & Technology, Cybersecurity, Web & Mobile Applications Development, Media Technology & Design)</h3>
