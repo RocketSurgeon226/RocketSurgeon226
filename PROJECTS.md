@@ -2,7 +2,7 @@
 
 A mix of infrastructure, mobile, and data projects — spanning the full stack from bare metal to UI.
 
-[← back to README](README.md)
+[← back to README](READMEv2.md)
 
 ---
 
@@ -36,4 +36,4 @@ A C#/.NET console application that ingests supermarket sales CSV data and proces
 
 ---
 
-[← back to README](README.md)
+[← back to README](READMEv2.md)
