@@ -102,8 +102,7 @@ Here are some ideas to get you started:
 <h2>Mizzou B.S. Information Technology + 4 certificates</h2>
 <h3>(Information Systems & Technology, Cybersecurity, Web & Mobile Applications Development, Media Technology & Design)</h3>
 
-<h2>MOREnet (Missouri Research & Education Network)</h2> 
-<h3>help desk experience</h3>
+<h2>MOREnet (Missouri Research & Education Network)</h2> - help desk experience
 
 <h2>Skills: OPNsense, 802.1Q VLANs, TP-Link Omada SDN, Proxmox VE, Wireshark, Cisco Packet Tracer, Linux CLI, Python, C#, JavaScript, Node.js, React, MongoDB, Docker</h2> 
 
