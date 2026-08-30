@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 <h2>Skills: OPNsense, 802.1Q VLANs, TP-Link Omada SDN, Proxmox VE, Wireshark, Cisco Packet Tracer, Linux CLI, Python, C#, JavaScript, Node.js, React, MongoDB, Docker</h2> 
 
-<h2>Current Learning: CompTIA Network+ → Security+ → CCNA</h2>h2> 
+<h2>Current Learning: CompTIA Network+ → Security+ → CCNA</h2> 
 
 <h2>🌐 Portfolio: <a href="https://RocketSurgeon226.github.io">RocketSurgeon226.github.io</a></h2> 
 
