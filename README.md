@@ -122,6 +122,8 @@ Here are some ideas to get you started:
 <b>Cr8r Soul</b> — SwiftUI music collection tracker with an elemental tagging system and a Swift Charts dashboard
 (add repo link here once pushed)
 
+[Cr8r Soul](https://github.com/RocketSurgeon226/Cr8r-Soul--Final-Project---iOS-App--SwiftUI--INFOTC-4405)
+
 <b>SalesDataAnalyzer</b> — C#/.NET console app processing supermarket sales CSV data via LINQ
 (add repo link here once pushed)
 
