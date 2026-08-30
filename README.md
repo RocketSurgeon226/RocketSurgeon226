@@ -79,3 +79,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1>Hi, I'm Adam! <br> <a href="https://github.com/RocketSurgeon226">Home Labber</a>, <a href="https://www.linkedin.com/in/adam-jeremiah-smith/">IT Student (network engineering / cybersecurity focus)</a>, Dec 2026 grad from the University of Missouri – Columbia</br></h1>
+
+<h2>Mizzou B.S. Information Technology + 4 certificates · MOREnet (Missouri Research & Education Network) help desk experience</h2> 
+
+<h2>Skills: OPNsense, 802.1Q VLANs, TP-Link Omada SDN, Proxmox VE, Wireshark, Cisco Packet Tracer, Linux CLI, Python, C#, JavaScript, Node.js, React, MongoDB, Docker</h2> 
+
+<h2>Current Learning: CompTIA Network+ (July exam target) → Security+ → CCNA</h2>h2> 
+
+<h2>🌐 Portfolio: <a href="https://RocketSurgeon226.github.io">RocketSurgeon226.github.io</a></h2> 
+
+<h2>👨‍💻 Projects:</h2>
+
+
+<b>Home Lab Setup</b> — self-hosted Proxmox VE environment: OPNsense firewall, VLAN segmentation, Omada SDN, Tailscale, AdGuard, and an automated media stack
+
+
+My Home Lab Setup
+
+<b>Cr8r Soul</b> — SwiftUI music collection tracker with an elemental tagging system and a Swift Charts dashboard
+(add repo link here once pushed)
+
+<b>SalesDataAnalyzer</b> — C#/.NET console app processing supermarket sales CSV data via LINQ
+(add repo link here once pushed)
+
+<h2> 🤳 Connect with me:</h2>
+
+<img align="left" alt="Adam Smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
