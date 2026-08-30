@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 <b>Home Lab Setup</b> — self-hosted Proxmox VE environment: OPNsense firewall, VLAN segmentation, Omada SDN, Tailscale, AdGuard, and an automated media stack
 
 
-My Home Lab Setup
+[My Home Lab Setup](https://github.com/RocketSurgeon226/My-Home-Lab-Setup/blob/main/README.md)
 
 <b>Cr8r Soul</b> — SwiftUI music collection tracker with an elemental tagging system and a Swift Charts dashboard
 (add repo link here once pushed)
