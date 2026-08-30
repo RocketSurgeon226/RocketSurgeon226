@@ -129,5 +129,5 @@ Here are some ideas to get you started:
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Adam Smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adam-jeremiah-smith/)
-[Email](adam.smith02026@gmail.com)
+[<img align="left" alt="Adam Smith | Email" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](adam.smith02026@gmail.com)
 [<img align="left" alt="Adam Smith | Phone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phone.svg" />]((314)749-9071)
