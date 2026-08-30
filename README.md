@@ -132,4 +132,4 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="AdamSmith | Email" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:adam.smith02026@gmail.com)
 
-[<img align="left" alt="AdamSmith | Phone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phone.svg" />]((314)749-9071)
+[<img align="left" alt="AdamSmith | Phone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phone.svg" />](tel:+13147499071)
