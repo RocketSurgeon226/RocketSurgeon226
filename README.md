@@ -128,7 +128,6 @@ Here are some ideas to get you started:
 
 <h2> 🤳 Connect with me:</h2>
 
-<img align="left" alt="Adam Smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-[LinkedIn](https://www.linkedin.com/in/adam-jeremiah-smith/)
+[<img align="left" alt="Adam Smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adam-jeremiah-smith/)
 [Email](adam.smith02026@gmail.com)
 [Phone]((314)749-9071)
