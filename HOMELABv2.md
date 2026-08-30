@@ -65,4 +65,4 @@ Pushed AdGuard as the DHCP-assigned DNS server via OPNsense, plus a NAT redirect
 
 ---
 
-[← back to README](README.md)
+[← back to README](READMEv2.md)
