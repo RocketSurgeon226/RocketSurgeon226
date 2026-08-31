@@ -52,7 +52,3 @@ A C#/.NET console app that processes supermarket sales CSVs using LINQ to surfac
 ---
 
 jerms226 — built and hosted on GitHub Pages · [github.com/RocketSurgeon226](https://github.com/RocketSurgeon226)
-
----
-
-**Want the live HTML/CSS site instead?** See [DEPLOY.md](DEPLOY.md) for GitHub Pages setup instructions.
