@@ -5,7 +5,7 @@
 
 I build and break networks until they hold under pressure. IT student at Mizzou focused on network engineering and cybersecurity. I run a self-hosted home lab on Proxmox as a live testbed — VLANs, firewalls, reverse proxies, and the mistakes that come with all of it — and I write it up in the open.
 
-**Live site:** [RocketSurgeon226.github.io](https://RocketSurgeon226.github.io) · **Résumé:** [RESUME.md](RESUME.md) · **Contact:** [CONTACT.md](CONTACT.md)
+**Live site:** [RocketSurgeon226.github.io](https://RocketSurgeon226.github.io) · **Résumé:** [RESUME.md](RESUME.md)
 
 ---
 
@@ -53,8 +53,7 @@ A C#/.NET console app that processes supermarket sales CSVs using LINQ to surfac
 - [`RESUME.md`](RESUME.md) — full résumé (education, experience, skills, certifications, leadership)
 - [`PROJECTS.md`](PROJECTS.md) — Cr8r Soul and SalesDataAnalyzer write-ups
 - [`HOMELAB.md`](HOMELAB.md) — home lab stack, topology, and notable fixes
-- [`CONTACT.md`](CONTACT.md) — how to reach me
-- `index.html`, `projects.html`, `homelab.html`, `resume.html`, `contact.html`, `roadmap.html`, `topology.html` — the live GitHub Pages site
+- `index.html`, `projects.html`, `homelab.html`, `resume.html`, `roadmap.html`, `topology.html` — the live GitHub Pages site
 - `assets/` — site CSS and downloadable résumé PDF
 
 ---
