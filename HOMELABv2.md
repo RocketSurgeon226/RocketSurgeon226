@@ -25,7 +25,7 @@ A single Beelink mini PC running Proxmox VE grew into a full home network: media
 | Hypervisor | Proxmox VE (LXC + VM) |
 | Firewall / router | OPNsense |
 | Containers | Docker + Portainer |
-| Media | Jellyfin, Immich, Arr Stack (Radarr/Sonarr/Prowlarr/qBittorrent/Bazarr) |
+| Media | Jellyfin, Immich |
 | Network | AdGuard Home, Tailscale, Omada SDN Controller |
 | Exposure | Cloudflare Tunnel → jerms226.net |
 | Monitoring | Uptime Kuma, Netdata |
