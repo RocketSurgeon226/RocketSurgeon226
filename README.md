@@ -13,7 +13,7 @@ I build and break networks until they hold under pressure. IT student at Mizzou 
 
 | | |
 |---|---|
-| **Role** | Assistant Service Desk Analyst |
+| **Role** | Student Service Desk Analyst |
 | **Studying** | B.S. Information Technology, University of Missouri |
 | **Degree Certs** | Information Systems & Technology, Cybersecurity, Web & Mobile Applications Development, Media Technology & Design |
 | **Industry Certs** | CompTIA Network+ (in progress) → Security+ → CCNA |
