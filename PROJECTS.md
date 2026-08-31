@@ -12,8 +12,6 @@ Self-hosted infrastructure on Proxmox VE: media serving, DNS filtering, VPN, and
 
 **Stack:** Proxmox · OPNsense · Omada SDN · Docker · Cloudflare Tunnel
 
-→ full write-up: [HOMELAB.md](HOMELAB.md)
-
 ---
 
 ## [Cr8r Soul](https://github.com/RocketSurgeon226/Cr8r-Soul--Final-Project---iOS-App--SwiftUI--INFOTC-4405)
