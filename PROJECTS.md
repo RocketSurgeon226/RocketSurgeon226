@@ -6,7 +6,7 @@ A mix of infrastructure, mobile, and data projects — spanning the full stack f
 
 ---
 
-## Home Lab
+## [Home Lab](HOMELAB.md)
 
 Self-hosted infrastructure on Proxmox VE: media serving, DNS filtering, VPN, and a segmented VLAN network behind an OPNsense firewall.
 
