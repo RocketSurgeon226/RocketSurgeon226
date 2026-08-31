@@ -17,7 +17,7 @@ I build and break networks until they hold under pressure. IT student at Mizzou 
 | **Studying** | B.S. Information Technology, University of Missouri |
 | **Certs** | CompTIA Network+ (in progress) → Security+ → CCNA |
 | **Targeting** | Network engineering & cybersecurity roles, defense/aerospace-adjacent |
-| **Org** | PR Chair, NSBE |
+| **Org** | Public Relations Chair, NSBE (National Society of Black Engineers) |
 
 Prior experience at MOREnet and a VR/AR development internship at VictoryXR. Most of what I know about networking past the classroom, I learned by wiring, breaking, and re-wiring my own rack.
 
