@@ -18,7 +18,7 @@ A single Beelink mini PC running Proxmox VE grew into a full home network: media
 | Storage | 2× 1.8TB HDD via SABRENT USB dock |
 | Network gear | TP-Link Omada — ER605 router, 8-port switch, EAP225 AP |
 
-**Software**
+**Software (OS, LXCs, and VMs)**
 
 | | |
 |---|---|
@@ -27,8 +27,9 @@ A single Beelink mini PC running Proxmox VE grew into a full home network: media
 | Containers | Docker + Portainer |
 | Media | Jellyfin, Immich |
 | Network | AdGuard Home, Tailscale, Omada SDN Controller |
-| Exposure | Cloudflare Tunnel → jerms226.net |
+| Exposure | Cloudflare Tunnel → jerms226.net,  Nginx Proxy Manager (NPM) |
 | Monitoring | Uptime Kuma, Netdata |
+| Backup | Proxmox Backup Server (PBS) |
 
 ---
 
@@ -36,14 +37,14 @@ A single Beelink mini PC running Proxmox VE grew into a full home network: media
 
 ```
 PVE host (192.168.1.150)
-├── Jellyfin                                                      CT100 · .151
-├── Docker / Portainer                                            CT101 · .152
-  ├── Immich, Cloudflare Tunnel, Nginx Proxy Manager, Uptime Kuma
-├── Tailscale subnet router                                       CT102 · .153
-├── Proxmox Backup Server                                         VM103 · .154
-├── OPNsense (firewall/router)                                    VM104 · .1
-├── AdGuard Home (DNS)                                            CT105 · .156
-└── Omada SDN Controller                                          CT106 · .157
+├── Jellyfin                                                               CT100 · .151
+├── Docker / Portainer                                                     CT101 · .152
+  ├── Immich, Cloudflare Tunnel, Nginx Proxy Manager, Uptime Kuma, Netdata
+├── Tailscale subnet router                                                CT102 · .153
+├── Proxmox Backup Server                                                  VM103 · .154
+├── OPNsense (firewall/router)                                             VM104 · .1
+├── AdGuard Home (DNS)                                                     CT105 · .156
+└── Omada SDN Controller                                                   CT106 · .157
   ├── ER605 router, 8-port switch, EAP225 AP 
 ```
 
