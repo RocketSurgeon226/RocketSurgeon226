@@ -44,6 +44,7 @@ PVE host (192.168.1.150)
 ├── OPNsense (firewall/router)                                    VM104 · .1
 ├── AdGuard Home (DNS)                                            CT105 · .156
 └── Omada SDN Controller                                          CT106 · .157
+  ├── TP-Link Omada — ER605 router, 8-port switch, EAP225 AP 
 ```
 
 → full topology map: [`topology.html`](topology.html)
