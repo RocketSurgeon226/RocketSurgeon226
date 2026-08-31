@@ -36,14 +36,14 @@ A single Beelink mini PC running Proxmox VE grew into a full home network: media
 
 ```
 PVE host (192.168.1.150)
-├── Jellyfin                              CT100 · .151
-├── Docker / Portainer / Immich           CT101 · .152
+├── Jellyfin                                                      CT100 · .151
+├── Docker / Portainer                                            CT101 · .152
   ├── Immich, Cloudflare Tunnel, Nginx Proxy Manager, Uptime Kuma
-├── Tailscale subnet router               CT102 · .153
-├── Proxmox Backup Server                 VM103 · .154
-├── OPNsense (firewall/router)            VM104 · .1
-├── AdGuard Home (DNS)                    CT105 · .156
-└── Omada SDN Controller                  CT106 · .157
+├── Tailscale subnet router                                       CT102 · .153
+├── Proxmox Backup Server                                         VM103 · .154
+├── OPNsense (firewall/router)                                    VM104 · .1
+├── AdGuard Home (DNS)                                            CT105 · .156
+└── Omada SDN Controller                                          CT106 · .157
 ```
 
 → full topology map: [`topology.html`](topology.html)
