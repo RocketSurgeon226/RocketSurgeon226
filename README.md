@@ -44,9 +44,9 @@ A C#/.NET console app that processes supermarket sales CSVs using LINQ to surfac
 
 [<img align="left" alt="AdamSmith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adam-jeremiah-smith/)
 
-[<img align="left" alt="AdamSmith | Email" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:adam.smith02026@gmail.com)
+[Email](mailto:adam.smith02026@gmail.com)
 
-[<img align="left" alt="AdamSmith | Phone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phone.svg" />](tel:+13147499071)
+[Call](tel:+13147499071)
 
 ## Repo contents
 
