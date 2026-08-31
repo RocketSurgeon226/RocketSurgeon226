@@ -15,7 +15,8 @@ I build and break networks until they hold under pressure. IT student at Mizzou 
 |---|---|
 | **Role** | Service Desk Analyst |
 | **Studying** | B.S. Information Technology, University of Missouri |
-| **Certs** | CompTIA Network+ (in progress) → Security+ → CCNA |
+| **Degree Certs** | Information Systems & Technology, Cybersecurity, Web & Mobile Applications Development, Media Technology & Design |
+| **Industry Certs** | CompTIA Network+ (in progress) → Security+ → CCNA |
 | **Targeting** | Network engineering & cybersecurity roles, defense/aerospace-adjacent |
 | **Org** | Public Relations Chair, NSBE (National Society of Black Engineers) |
 
