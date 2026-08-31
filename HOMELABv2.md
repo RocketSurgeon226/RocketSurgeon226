@@ -49,7 +49,7 @@ PVE host (192.168.1.150)
 
 ---
 
-## Notable fixes — the part interviews actually ask about
+## Troubleshooting Instances
 
 **VLAN segmentation — bridge silently dropped VLAN tags**
 Per-container tags were being ignored because `vmbr0` was never set VLAN-aware. Root-caused via `bridge vlan show`, fixed in `/etc/network/interfaces`.
