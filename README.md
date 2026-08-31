@@ -28,7 +28,7 @@ Prior experience at MOREnet and a VR/AR development internship at VictoryXR. Mos
 A real Proxmox rack running media services, DNS, VPN, and a segmented network — with every outage documented instead of hidden.
 **Stack:** Proxmox VE · OPNsense · Omada SDN · Docker · Cloudflare Tunnel
 
-### 🎵 Cr8r Soul
+### 🎵 [Cr8r Soul](https://github.com/RocketSurgeon226/Cr8r-Soul--Final-Project---iOS-App--SwiftUI--INFOTC-4405)
 A music collection tracker built in SwiftUI, with an elemental tagging system and a Swift Charts dashboard.
 **Stack:** Swift · SwiftUI · JSON persistence
 → see [PROJECTS.md](PROJECTS.md#cr8r-soul)
