@@ -48,7 +48,9 @@ PVE host (192.168.1.150)
       ├── ER605 router, 8-port switch, EAP225 AP 
 ```
 
+<!--
 → full topology map: [`topology.html`](topology.html)
+-->
 
 ---
 
