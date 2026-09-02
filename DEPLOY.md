@@ -1,3 +1,4 @@
+<!--
 # jerms226 — portfolio
 
 Adam "Jerms" Smith's personal portfolio: a static, multi-page site (no build step) covering background, projects, the home lab build, résumé, and contact info. Dark terminal-inspired design that matches the home lab documentation style.
@@ -46,3 +47,4 @@ GitHub Pages redeploys automatically within a minute or two of a push to `main`.
 - All copy references your Dec 2026 graduation, current Service Desk Analyst role at MOREnet, and Network+ → Security+ → CCNA path — update `index.html` and `resume.html` as your status changes.
 - `roadmap.html` and `topology.html` are snapshots of your home lab docs as of 8/25/26 — swap in newer versions any time by replacing those files (keep the filenames the same so links elsewhere in the site keep working).
 - Custom domain (e.g. pointing `jerms226.net` here instead of/alongside the homelab tunnel) can be added later via Settings → Pages → Custom domain, plus a CNAME record at your DNS provider.
+-->
