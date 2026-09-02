@@ -52,7 +52,7 @@ A C#/.NET console app that processes supermarket sales CSVs using LINQ to surfac
 
 ## Repo contents
 
-- [`CV.md`](CV.md) — full CV (education, experience, skills, certifications, leadership)
+- [`CV.pdf`](Fall_26_Adam_Smith_New_CV-1.pdf) — full CV (education, experience, skills, certifications, leadership)
 - [`PROJECTS.md`](PROJECTS.md) — Cr8r Soul and SalesDataAnalyzer write-ups
 - [`HOMELAB.md`](HOMELAB.md) — home lab stack, topology, and notable fixes
 
