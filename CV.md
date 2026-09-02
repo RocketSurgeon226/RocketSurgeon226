@@ -1,4 +1,4 @@
-# Résumé — Adam Smith
+# CV — Adam Smith
 
 [← back to README](README.md) · [Download PDF](assets/resume/Adam_Smith_Resume.pdf)
 
