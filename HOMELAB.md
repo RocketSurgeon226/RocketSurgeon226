@@ -4,7 +4,9 @@
 
 A single Beelink mini PC running Proxmox VE grew into a full home network: media serving, DNS filtering, a WireGuard VPN mesh, a segmented VLAN topology behind an OPNsense firewall, and a TP-Link Omada SDN stack — with everything documented as it was built, broken, and fixed.
 
+<!--
 **Full technical write-up:** [`roadmap.html`](roadmap.html) · **Interactive topology map:** [`topology.html`](topology.html)
+-->
 
 ---
 
