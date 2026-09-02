@@ -53,9 +53,13 @@ A C#/.NET console app that processes supermarket sales CSVs using LINQ to surfac
 - [`RESUME.md`](RESUME.md) — full résumé (education, experience, skills, certifications, leadership)
 - [`PROJECTS.md`](PROJECTS.md) — Cr8r Soul and SalesDataAnalyzer write-ups
 - [`HOMELAB.md`](HOMELAB.md) — home lab stack, topology, and notable fixes
+
+<!--
 - `index.html`, `projects.html`, `homelab.html`, `resume.html`, `roadmap.html`, `topology.html` — the live GitHub Pages site
 - `assets/` — site CSS and downloadable résumé PDF
-
+-->
 ---
 
+<!--
 jerms226 — built and hosted on GitHub Pages · [github.com/RocketSurgeon226](https://github.com/RocketSurgeon226)
+-->
