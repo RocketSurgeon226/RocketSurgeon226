@@ -3,7 +3,10 @@
 **B.S. Information Technology · University of Missouri - Columbia (Dec 2026)**
 📍 St. Louis, MO · 🟢 Open to work
 
-I build and break networks until they hold under pressure. IT student at Mizzou focused on network engineering and cybersecurity. I run a self-hosted home lab on Proxmox as a live testbed — VLANs, firewalls, reverse proxies, and the mistakes that come with all of it — and I write it up in the open.
+I build and break networks until they hold under pressure. IT student at Mizzou focused on network engineering and cybersecurity. I run a self-hosted home lab on Proxmox as a live testbed: VLANs, firewalls, reverse proxies, and the mistakes that come with all of it. 
+<!--
+and I write it up in the open.
+-->
 
 <!--
 **Live site:** [RocketSurgeon226.github.io](https://RocketSurgeon226.github.io) · **CV:** [CV.md](CV.md)
