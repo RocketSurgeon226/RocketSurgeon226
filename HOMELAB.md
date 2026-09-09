@@ -20,6 +20,10 @@ A single Beelink mini PC running Proxmox VE grew into a full home network: media
 | Storage | 2× 1.8TB HDD via SABRENT USB dock |
 | Network gear | TP-Link Omada — ER605 router, 8-port switch, EAP225 AP |
 
+<h4></h4> <i><img src="images/IMG_20260908_171255763_MP.jpg" alt=Physical Setup" width="400"></i>
+
+<br></br>
+
 **Software (OS, LXCs, and VMs)**
 
 | | |
@@ -34,8 +38,9 @@ A single Beelink mini PC running Proxmox VE grew into a full home network: media
 | Backup | Proxmox Backup Server (PBS) |
 
 ---
+<br></br>
 
-## Topology (simplified)
+## Network Topology (simplified)
 
 ```
 PVE host (192.168.1.150)
@@ -47,14 +52,21 @@ PVE host (192.168.1.150)
    ├── OPNsense (firewall/router)                                              VM104 · .1
    ├── AdGuard Home (DNS)                                                      CT105 · .156
    └── Omada SDN Controller                                                    CT106 · .157
-      ├── ER605 router, 8-port switch, EAP225 AP 
+      ├── ER605 router, 8-port switch, EAP225 AP
+ 
 ```
+
+<br></br>
+
+<h4>Topology Diagram</h4> <i><img src="images/homelab_physical_hardware_layout(1).svg" alt=Topology Diagram" width="400"></i>
 
 <!--
 → full topology map: [`topology.html`](topology.html)
 -->
 
 ---
+
+<br></br>
 
 ## Troubleshooting Instances
 
@@ -71,7 +83,5 @@ A container's veth interface and a VM's tap interface had both silently detached
 Pushed AdGuard as the DHCP-assigned DNS server via OPNsense, plus a NAT redirect to catch hardcoded-DNS devices like smart TVs.
 
 ---
-
-<h2>![Setup Diagram](RocketSurgeon226/homelab_physical_hardware_layout(1).svg)</h2> <i>Coming soon</i> <h2>Dual Storage Allocation Layout</h2> <i>Coming soon</i>
 
 [← back to README](READMEv2.md)
