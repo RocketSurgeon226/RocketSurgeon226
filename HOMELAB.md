@@ -72,6 +72,6 @@ Pushed AdGuard as the DHCP-assigned DNS server via OPNsense, plus a NAT redirect
 
 ---
 
-<h2>Setup Diagram</h2> <i>Coming soon</i> <h2>Dual Storage Allocation Layout</h2> <i>Coming soon</i>
+<h2>![Setup Diagram](images/homelab_physical_hardware_layout(1).svg)</h2> <i>Coming soon</i> <h2>Dual Storage Allocation Layout</h2> <i>Coming soon</i>
 
 [← back to README](READMEv2.md)
