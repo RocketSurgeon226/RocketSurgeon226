@@ -21,7 +21,7 @@ and I write it up in the open.
 | **Role** | Student Service Desk Analyst |
 | **Studying** | B.S. Information Technology, University of Missouri |
 | **Degree Certs** | Info Systems & Tech, Cybersecurity, Web & Mobile App Dev, Media Tech & Design |
-| **Industry Certs** | CompTIA Network+ (in progress) → Security+ → CCNA |
+| **Industry Certs** | CompTIA Security+ (in progress) → CCNA |
 | **Targeting** | Network engineering & cybersecurity roles, defense/aerospace-adjacent |
 | **Org** | PR Chair, NSBE (National Society of Black Engineers) |
 
