@@ -60,9 +60,9 @@ PVE host (192.168.1.150)
 
 <h4>Topology Diagram</h4> <i><img src="images/homelab_physical_hardware_layout(1).svg" alt=Topology Diagram" width="400"></i>
 
-<h4>VLAN Configuration</h4> <i><img src="images/homelab_physical_hardware_layout(1).svg" alt=Topology Diagram" width="400"></i>
+<h4>VLAN Configuration</h4> <i><img src="images/1000016686.png" alt=VLAN Configuration" width="400"></i>
 
-<h4>Hard Drive Mounts</h4> <i><img src="images/homelab_physical_hardware_layout(1).svg" alt=Topology Diagram" width="400"></i>
+<h4>Hard Drive Mounts</h4> <i><img src="images/1000016686.png" alt=Hard Drive Mounts" width="400"></i>
 
 <!--
 → full topology map: [`topology.html`](topology.html)
