@@ -38,8 +38,8 @@ A real Proxmox rack running media services, DNS, VPN, and a segmented network �
 **Stack:** Proxmox VE · OPNsense · Omada SDN · Docker · Cloudflare Tunnel
 
 ### 🎵 [Cr8r Soul](https://github.com/RocketSurgeon226/Cr8r-Soul--Final-Project---iOS-App--SwiftUI--INFOTC-4405)
-A music collection tracker built in SwiftUI, with an elemental tagging system and a Swift Charts dashboard.
-**Stack:** Swift · SwiftUI · JSON persistence
+A SwiftUI app for tracking a physical and digital music collection, with elemental tagging, a Dig Mode randomizer and a Swift Charts stats dashboard.
+**Stack:** Swift · SwiftUI · Swift Charts · CoreData
 → see [PROJECTS.md](PROJECTS.md#cr8r-soul)
 
 ### 📊 SalesDataAnalyzer
