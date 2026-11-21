@@ -27,13 +27,13 @@ Self-hosted infrastructure on Proxmox VE: media serving, DNS filtering, VPN, and
 ---
 
 ## [Cr8r Soul](https://github.com/RocketSurgeon226/Cr8r-Soul--Final-Project---iOS-App--SwiftUI--INFOTC-4405)
-*SwiftUI · May 2026*
+*SwiftUI · Final project, INFOTC 4405 · May 2026*
 
-A music collection tracker app built in SwiftUI. Started on CoreData, then migrated to JSON-based persistence to work around Swift Playgrounds limitations. Organizes a collection around an elemental tagging system — Water/Strings, Earth/Percussion, Fire/Brass, Air/Woodwinds — plus a "Dig Mode" randomizer for rediscovering old finds and a Swift Charts dashboard for visualizing the collection.
+A SwiftUI app for tracking a physical and digital music collection: vinyl, cassette, CD, MiniDisc, 8-Track, shellac and digital. Owned records live in your **Cr8**, wanted ones in your **Cr8 Shipment**, each with a 1–5 rating, liner notes, and one or more elemental tags: Water/Strings, Earth/Percussion, Fire/Brass, Air/Woodwinds. Includes a "Dig Mode" randomizer for rediscovering old finds and a Swift Charts "Soul Stats" dashboard. All data stays on the device with CoreData.
 
 One of the harder bugs was a stack-overflow crash in the dashboard, traced to a view model recomputing on every state change — fixed by converting `DashboardViewModel` to a push-based pattern with a single `recompute()` entry point.
 
-**Tech:** `Swift` `SwiftUI` `JSON persistence` `Swift Charts`
+**Tech:** `Swift` `SwiftUI` `Swift Charts` `CoreData`
 
 ---
 
