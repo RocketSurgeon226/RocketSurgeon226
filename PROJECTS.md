@@ -6,6 +6,18 @@ A mix of infrastructure, mobile, and data projects — spanning the full stack f
 
 ---
 
+## [SOC-in-a-Box](https://github.com/RocketSurgeon226/Dirty-SOC-s-SOC-in-aBox)
+
+*Capstone · Python · Fall 2026*
+
+A low-cost (~$188) Raspberry Pi 5 home network security system built by a 5-person team. The Pi passively watches traffic through a managed switch's mirrored (SPAN) port, Suricata flags suspicious activity, and a Python service turns each detection into a plain-language alert card a homeowner can act on: what happened, how serious it is, which device, and one next step. It covers six categories: known-malicious IP/domain contact, plaintext credentials, port scans, new devices, unusual outbound volume, and excessive ad/tracker DNS.
+
+I lead the team and own packet capture and sensor setup: building Suricata from source on the Pi, configuring SPAN mirroring so the network stays up even if the Pi goes down, loading the ET Open and URLhaus rulesets, and writing the port-scan and plaintext-credential detection rules.
+
+**Tech:** `Raspberry Pi 5` `Suricata` `ET Open` `URLhaus` `Python` `Flask/FastAPI` `pytest` `GitHub Actions`
+
+---
+
 ## [Home Lab](HOMELAB.md)
 
 Self-hosted infrastructure on Proxmox VE: media serving, DNS filtering, VPN, and a segmented VLAN network behind an OPNsense firewall.
