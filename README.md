@@ -29,6 +29,10 @@ Prior experience at MOREnet and a VR/AR development internship at VictoryXR. Mos
 
 ## Featured Builds
 
+### 🛡️ [SOC-in-a-Box (Capstone)](https://github.com/RocketSurgeon226/Dirty-SOC-s-SOC-in-aBox)
+
+A Raspberry Pi 5 network sensor that passively watches a home network through a mirrored switch port and turns Suricata detections into plain-language alert cards: what happened, how serious it is, which device, and one next step. I lead the 5-person team and own packet capture and sensor setup (SPAN mirroring, Suricata built from source, port-scan and plaintext-credential rules). **Stack:** Raspberry Pi 5 · Suricata · ET Open + URLhaus · Python · Flask/FastAPI → see [PROJECTS.md](https://github.com/RocketSurgeon226/RocketSurgeon226/blob/main/PROJECTS.md#soc-in-a-box)
+
 ### 🖧 [Home Lab Infrastructure](HOMELAB.md)
 A real Proxmox rack running media services, DNS, VPN, and a segmented network — with every outage documented instead of hidden.
 **Stack:** Proxmox VE · OPNsense · Omada SDN · Docker · Cloudflare Tunnel
